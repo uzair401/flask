@@ -10,7 +10,7 @@ Stocks Portfolio Management Web Application is a web application designed to hel
 - **Quote Stocks**: Users can search for real-time stock quotes using an external API.
 - **Buy and Sell Stocks**: Users can buy shares of stock at current market prices and sell them when needed.
 - **Transaction History**: A complete history of all transactions (buys and sells) is maintained for each user.
-- **Portfolio Overview**: A dashboard where users can view the current state of their portfolio, including the stocks they own and their respective value.
+- **Portfolio Overview**: A dashboard where users can view the current state of their portfolio, including the stocks they own and their respective values.
 - **Check Account Balance**: Users can keep track of their cash balance after transactions.
 
 ## Prerequisites
@@ -19,7 +19,7 @@ To run this project locally, you will need:
 - Python 3.8+
 - Flask 2.0+
 - SQLite3
-- An external API for fetching stock quotes (such as Alpha Vantage or IEX Cloud)
+- IEX Exchange API for fetching stock quotes
 
 ## Installation
 
