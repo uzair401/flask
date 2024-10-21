@@ -1,8 +1,8 @@
-# Flask Finance Tracker
+# Stocks Portfolio Management Web Application
 
 ## Description
 
-Flask Finance Tracker is a web application designed to help users manage their personal financial portfolio. Users can buy and sell stocks, view their financial history, check stock prices, and track their total net worth. The application uses a combination of Flask for the backend, Jinja for templating, and SQLite for data storage, making it lightweight and easy to deploy.
+Stocks Portfolio Management Web Application is a web application designed to help users manage their personal financial portfolio. Users can buy and sell stocks, view their financial history, check stock prices, and track their total net worth. The application uses a combination of Flask for the backend, Jinja for templating, and SQLite for data storage, making it lightweight and easy to deploy.
 
 ## Features
 
