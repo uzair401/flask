@@ -83,7 +83,7 @@ flask/
 │   ├── templates/        # HTML templates for rendering views
 │   ├── static/           # Static files (CSS, JS)
 │   ├── __init__.py       # App initialization
-│   └── models.py         # Database models for user and transactions
+│   └── database.db         # Database  for user and transactions
 │
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
